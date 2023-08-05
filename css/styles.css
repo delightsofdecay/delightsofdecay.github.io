@@ -4,8 +4,9 @@
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
-  margin: 20px 0;
   color:inherit;
+  margin-bottom: 0;
+  margin-top: 35px;
 }
 
 
@@ -92,6 +93,15 @@ blockquote cite {
 .thumbnail:focus, .thumbnail:hover {
 	box-shadow: 0 0 6px 1px rgba(125,125,125,.3);
 }
+
+
+/*TABLE*/
+
+tbody {
+  background-color: #fff;
+  border: none;
+}
+
 
 
 /*FOOTER*/
